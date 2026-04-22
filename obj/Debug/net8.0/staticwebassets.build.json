@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "nwXoUOTBYEiLORYsod0QLPlh+C5HOrDSlZ6pIfZ6UjU=",
+  "Source": "VolumeCalculatorApp",
+  "BasePath": "_content/VolumeCalculatorApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "VolumeCalculatorApp\\wwwroot",
+      "Source": "VolumeCalculatorApp",
+      "ContentRoot": "D:\\VolumeCalculatorApp\\wwwroot\\",
+      "BasePath": "_content/VolumeCalculatorApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\VolumeCalculatorApp\\wwwroot\\index.html",
+      "SourceId": "VolumeCalculatorApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\VolumeCalculatorApp\\wwwroot\\",
+      "BasePath": "_content/VolumeCalculatorApp",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
